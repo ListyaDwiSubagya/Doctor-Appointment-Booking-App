@@ -10,7 +10,8 @@ export default {
         'primary' : "#5f6FFF"
       },
       gridTemplateColumns:{
-        'auto':'repeat(auto-fill, minmax(210px, 1fr))'
+        'auto':'repeat(auto-fill, minmax(210px, 1fr))',
+        'auto-1' :'repeat(auto-fill, minmax(220px, 1fr))'
       }
     },
   },
